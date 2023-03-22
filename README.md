@@ -67,32 +67,9 @@ The main additional element to consider is **reproducibility**, since many of th
 
 ***To pass this project, you must pass each rubric objective.*** The project rubric objectives for Phase 4 are:
 
-1. Attention to Detail
-2. Advanced ML Communication
-3. Advanced Data Preparation
-4. Advanced ML Modeling
-
-### Attention to Detail
-
-Once again, the Attention to Detail standard has increased. ***In Phase 4, you need to complete 90% (9 out of 10) or more of the checklist elements in order to pass the Attention to Detail objective.***
-
-**NOTE THAT THE PASSING BAR IS HIGHER IN PHASE 4 THAN IT WAS IN PHASE 3!**
-
-#### Exceeds Objective
-
-100% of the project checklist items are complete
-
-#### Meets Objective (Passing Bar)
-
-90% of the project checklist items are complete
-
-#### Approaching Objective
-
-80% of the project checklist items are complete
-
-#### Does Not Meet Objective
-
-70% or fewer of the project checklist items are complete
+1. Advanced ML Communication
+2. Advanced Data Preparation
+3. Advanced ML Modeling
 
 ### Advanced ML Communication
 
