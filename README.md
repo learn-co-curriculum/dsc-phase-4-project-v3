@@ -23,7 +23,7 @@ Similar to the Phase 3 project, you are responsible for choosing a dataset as we
 
 You should also think about how you will interpret and explain your models results to your audience.
 
-For complete details, see [Phase 4 Project - Choosing a Dataset](https://github.com/learn-co-curriculum/dsc-phase-4-choosing-a-dataset).
+For complete details, see [Phase 4 Project - Choosing a Dataset](https://github.com/learn-co-curriculum/dsc-phase-4-choosing-a-dataset-v3).
 
 ### Key Points
 
