@@ -18,7 +18,7 @@ For this project, you will engage in an **advanced supervised modeling process**
 Similar to the Phase 3 project, you are responsible for choosing a dataset as well as defining a stakeholder and business problem. In addition to these choices, you can choose between any of the advanced supervised modeling techniques covered in Phase 4:
 
 - Recommendation Systems
-- Neural Networks
+- Model Interpretability
 - Natural Language Processing
 
 You should also think about how you will interpret and explain your models results to your audience.
@@ -86,7 +86,6 @@ Summary elements:
   * Be sure to list the packages/libraries used to prepare the data, and why
 * Modeling: *what modeling package(s) did you use, which model(s) within the package(s), and what tuning steps did you take?*
   * For some projects there may be only one applicable package; you should still briefly explain why this was the appropriate choice
-  * For neural networks projects, be sure to describe your model architecture choices
 * Evaluation: *how well did your final model perform?*
   * Include one or more relevant metrics
   * Be sure to briefly describe your validation approach
@@ -145,7 +144,7 @@ This is your real opportunity to flex those new Phase 4 skills!
 
 #### Exceeds Objective
 
-Goes above and beyond in the modeling process, such as using models from multiple different packages or model explainability tools
+Goes above and beyond in the modeling process, such as using models from multiple different packages and different model explainability tools
 
 > You are encouraged but not required to use models from multiple different packages. The feasibility of this depends on your choice of project. For time series, this might mean trying both StatsModels and Prophet. For image classification, this might mean using TensorFlow with and without transfer learning.
 
@@ -153,7 +152,7 @@ Goes above and beyond in the modeling process, such as using models from multipl
 
 #### Meets Objective (Passing Bar)
 
-Successfully builds and evaluates multiple models using an appropriate model validation technique
+Successfully builds and evaluates multiple models using an appropriate model validation technique and uses built in model explainability tools
 
 > As noted previously, the `train_test_split` from scikit-learn may or may not be appropriate for your modeling task. Be sure to investigate appropriate techniques so you are confident in the performance of your final model on unseen data
 
@@ -163,7 +162,7 @@ Builds multiple models with at least one major error
 
 #### Does Not Meet Objective
 
-Does not build multiple models
+Does not build multiple models and does not use model explanability
 
 ## Getting Started
 
